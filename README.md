@@ -1,2 +1,2 @@
-# button-counter
-react app that counts how many times a button was pressed
+# React 17 Getting Started
+Pluralsight Course for begginers in React: [React 17: Getting Started](https://www.pluralsight.com/courses/react-js-getting-started)
